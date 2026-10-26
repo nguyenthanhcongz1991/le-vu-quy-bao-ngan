@@ -1,0 +1,8 @@
+THIEP LE VU QUY - BAO NGAN & THANH CONG
+
+Ngay: 10:00, Thu Nam, 26/11/2026
+Dia chi: So 414, Ap 3 Bien A, Xa Tay Yen, Tinh An Giang
+Ban do: https://www.google.com/maps/search/?api=1&query=9.8833113%2C105.0265198
+
+GitHub Pages: Tao repository Public moi ten le-vu-quy-bao-ngan. Upload index.html va cac thu muc images, audio vao thu muc goc. Settings > Pages > Deploy from a branch > main > /(root).
+Khong upload vao repository thiep-cuoi-cong-ngan hien tai.
